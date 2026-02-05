@@ -1,4 +1,4 @@
-## Title of the Project
+## Machine Learning-Based Intrusion Detection for IOT Networks
 The Machine Learning–Based Intrusion Detection for IoT Networks project focuses on enhancing the security of Internet of Things (IoT) environments by intelligently detecting and classifying cyberattacks using machine learning techniques. The system aims to identify malicious network activities such as Denial of Service (DoS), Port Scanning, and Malware attacks, thereby improving the reliability and trustworthiness of IoT networks.
 
 ## About
